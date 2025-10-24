@@ -1,3 +1,5 @@
+<img width="1920" height="320" alt="githubbanner" src="https://github.com/user-attachments/assets/e2c2bedf-f86f-4a66-8cf7-d1a7a4d61a6d" />
+
 Hi, I’m Darren Bush 👋
 
 	Creative Web Developer | UX Designer | Visual Storyteller
