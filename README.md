@@ -10,12 +10,12 @@ Creative Web Developer | UX Designer | Visual Storyteller
 	-	Interests: Web applications and film production
 
 💻 Featured Projects
-1. First-Time Travel Guide (UX/UI + Front-End)
+   1. First-Time Travel Guide (UX/UI + Front-End)
 	-	A web guide for first-time international travelers.
 	-	Tech: HTML, CSS, JavaScript
 	-	dbush6.github.io/TravelGuideWebsite/
 
-2.  StickerHub (eCommerce + Brand Design)
+   2.  StickerHub (eCommerce + Brand Design)
 	-	Sports merchandise store with filtering and cart prototype.
 	-	Tech: HTML, CSS, JavaScript
 	-	dbush6.github.io/StickerHub/
