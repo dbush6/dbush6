@@ -2,7 +2,7 @@
 
 Hi, I’m Darren Bush 👋
 
-	Creative Web Developer | UX Designer | Visual Storyteller
+Creative Web Developer | UX Designer | Visual Storyteller
 
 👤 Bio:
 	•	Background: ASU graduate with a BS in Graphic Information Technology.
